@@ -1,2 +1,2 @@
 # gif_splitter
-gif_splitter tool written in C++, based on giflib and CImg library.
+gif_splitter tool written in C++17, based on giflib and CImg library.
